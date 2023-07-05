@@ -1,0 +1,9 @@
+com.example.gitproject.test.app-annotation-experimental-1.3.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\6aa5cdca630ead1c07a911e911c3ed92\transformed\annotation-experimental-1.3.0\res
+com.example.gitproject.test.app-core-1.5.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\e7a20e1432a52eced577f1dd72e23634\transformed\core-1.5.0\res
+com.example.gitproject.test.app-androidTest-2 E:\practice\Cardiac-Recorder\app\build\generated\res\resValues\androidTest\debug
+com.example.gitproject.test.app-androidTest-3 E:\practice\Cardiac-Recorder\app\build\generated\res\rs\androidTest\debug
+com.example.gitproject.test.app-mergeDebugAndroidTestResources-4 E:\practice\Cardiac-Recorder\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.gitproject.test.app-mergeDebugAndroidTestResources-5 E:\practice\Cardiac-Recorder\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.gitproject.test.app-merged_res-6 E:\practice\Cardiac-Recorder\app\build\intermediates\merged_res\debugAndroidTest
+com.example.gitproject.test.app-androidTest-7 E:\practice\Cardiac-Recorder\app\src\androidTest\res
+com.example.gitproject.test.app-androidTestDebug-8 E:\practice\Cardiac-Recorder\app\src\androidTestDebug\res

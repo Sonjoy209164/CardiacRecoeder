@@ -1,0 +1,323 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.gitproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:5-67
+11-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:5-79
+12-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:22-76
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.example.gitproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.example.gitproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:5:5-79:19
+21        android:allowBackup="true"
+21-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:6:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:7:9-65
+24        android:debuggable="true"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:8:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:9:9-43
+27        android:label="HeartRate"
+27-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:10:9-34
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:11:9-54
+29        android:supportsRtl="true"
+29-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:12:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.Material3.Light" >
+31-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:13:9-53
+32        <activity
+32-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:16:9-30:20
+33            android:name="com.example.gitproject.StartActivity"
+33-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:17:13-42
+34            android:exported="true"
+34-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:19:13-36
+35            android:theme="@style/SplashTheme" >
+35-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:18:13-47
+36            <intent-filter>
+36-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:21:13-25:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:22:17-69
+37-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:22:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:24:17-77
+39-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:24:27-74
+40            </intent-filter>
+41
+42            <meta-data
+42-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:27:13-29:36
+43                android:name="android.app.lib_name"
+43-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:28:17-52
+44                android:value="" />
+44-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:29:17-33
+45        </activity>
+46        <activity
+46-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:32:9-39:20
+47            android:name="com.example.gitproject.UpdateActivity"
+47-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:33:13-43
+48            android:exported="false"
+48-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:35:13-37
+49            android:theme="@style/SplashTheme" >
+49-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:34:13-47
+50            <meta-data
+50-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:27:13-29:36
+51                android:name="android.app.lib_name"
+51-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:28:17-52
+52                android:value="" />
+52-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:29:17-33
+53        </activity>
+54        <activity
+54-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:41:9-47:20
+55            android:name="com.example.gitproject.AddActivity"
+55-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:42:13-40
+56            android:exported="false" >
+56-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:43:13-37
+57            <meta-data
+57-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:27:13-29:36
+58                android:name="android.app.lib_name"
+58-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:28:17-52
+59                android:value="" />
+59-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:29:17-33
+60        </activity>
+61        <activity
+61-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:48:9-55:20
+62            android:name="com.example.gitproject.RegisterActivity"
+62-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:49:13-45
+63            android:exported="false"
+63-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:51:13-37
+64            android:theme="@style/SplashTheme" >
+64-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:50:13-47
+65            <meta-data
+65-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:27:13-29:36
+66                android:name="android.app.lib_name"
+66-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:28:17-52
+67                android:value="" />
+67-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:29:17-33
+68        </activity>
+69        <activity
+69-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:56:9-63:20
+70            android:name="com.example.gitproject.LoginActivity"
+70-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:57:13-42
+71            android:exported="false"
+71-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:59:13-37
+72            android:theme="@style/SplashTheme" >
+72-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:58:13-47
+73            <meta-data
+73-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:27:13-29:36
+74                android:name="android.app.lib_name"
+74-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:28:17-52
+75                android:value="" />
+75-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:29:17-33
+76        </activity>
+77        <activity
+77-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:64:9-78:20
+78            android:name="com.example.gitproject.MainActivity"
+78-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:65:13-41
+79            android:exported="true"
+79-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:67:13-36
+80            android:theme="@style/SplashTheme" >
+80-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:66:13-47
+81
+82            <!-- <intent-filter> -->
+83            <!-- <action android:name="android.intent.action.MAIN" /> -->
+84
+85
+86            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+87            <!-- </intent-filter> -->
+88
+89            <meta-data
+89-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:27:13-29:36
+90                android:name="android.app.lib_name"
+90-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:28:17-52
+91                android:value="" />
+91-->D:\Cardiac-Recorder\app\src\main\AndroidManifest.xml:29:17-33
+92        </activity>
+93
+94        <service
+94-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Asus\.gradle\caches\transforms-3\55fd18ccdfad11d33a63ea4c471ae427\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+95            android:name="com.google.firebase.components.ComponentDiscoveryService"
+95-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Asus\.gradle\caches\transforms-3\55fd18ccdfad11d33a63ea4c471ae427\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:12:13-84
+96            android:directBootAware="true"
+96-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\592c1d0730d2171bae9dd03ef04af6d7\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+97            android:exported="false" >
+97-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Asus\.gradle\caches\transforms-3\55fd18ccdfad11d33a63ea4c471ae427\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:13:13-37
+98            <meta-data
+98-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Asus\.gradle\caches\transforms-3\55fd18ccdfad11d33a63ea4c471ae427\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:14:13-16:85
+99                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+99-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Asus\.gradle\caches\transforms-3\55fd18ccdfad11d33a63ea4c471ae427\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:15:17-124
+100                android:value="com.google.firebase.components.ComponentRegistrar" />
+100-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Asus\.gradle\caches\transforms-3\55fd18ccdfad11d33a63ea4c471ae427\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:16:17-82
+101            <meta-data
+101-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\00eabf34c2ab97bb1e018934310ee559\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:11:13-13:85
+102                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+102-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\00eabf34c2ab97bb1e018934310ee559\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:12:17-116
+103                android:value="com.google.firebase.components.ComponentRegistrar" />
+103-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\00eabf34c2ab97bb1e018934310ee559\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:13:17-82
+104            <meta-data
+104-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:69:13-71:85
+105                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+105-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:70:17-109
+106                android:value="com.google.firebase.components.ComponentRegistrar" />
+106-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:71:17-82
+107            <meta-data
+107-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Asus\.gradle\caches\transforms-3\f9bec2f517ff7d57f032cbe634a57e9b\transformed\firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+108                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+108-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Asus\.gradle\caches\transforms-3\f9bec2f517ff7d57f032cbe634a57e9b\transformed\firebase-database-20.2.2\AndroidManifest.xml:32:17-109
+109                android:value="com.google.firebase.components.ComponentRegistrar" />
+109-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Asus\.gradle\caches\transforms-3\f9bec2f517ff7d57f032cbe634a57e9b\transformed\firebase-database-20.2.2\AndroidManifest.xml:33:17-82
+110            <meta-data
+110-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\2621ec32e7ae5036ed88bc8ea47c5d46\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+111                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+111-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\2621ec32e7ae5036ed88bc8ea47c5d46\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
+112                android:value="com.google.firebase.components.ComponentRegistrar" />
+112-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\2621ec32e7ae5036ed88bc8ea47c5d46\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+113        </service>
+114
+115        <activity
+115-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:29:9-46:20
+116            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+116-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:30:13-80
+117            android:excludeFromRecents="true"
+117-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:31:13-46
+118            android:exported="true"
+118-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:32:13-36
+119            android:launchMode="singleTask"
+119-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:33:13-44
+120            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+120-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:34:13-72
+121            <intent-filter>
+121-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:35:13-45:29
+122                <action android:name="android.intent.action.VIEW" />
+122-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:17-69
+122-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:25-66
+123
+124                <category android:name="android.intent.category.DEFAULT" />
+124-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:17-76
+124-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:27-73
+125                <category android:name="android.intent.category.BROWSABLE" />
+125-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:17-78
+125-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
+126
+127                <data
+127-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:41:17-44:51
+128                    android:host="firebase.auth"
+128-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:42:21-49
+129                    android:path="/"
+129-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:43:21-37
+130                    android:scheme="genericidp" />
+130-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:44:21-48
+131            </intent-filter>
+132        </activity>
+133        <activity
+133-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:47:9-64:20
+134            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+134-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:48:13-79
+135            android:excludeFromRecents="true"
+135-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:49:13-46
+136            android:exported="true"
+136-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:50:13-36
+137            android:launchMode="singleTask"
+137-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:51:13-44
+138            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+138-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:52:13-72
+139            <intent-filter>
+139-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:53:13-63:29
+140                <action android:name="android.intent.action.VIEW" />
+140-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:17-69
+140-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:25-66
+141
+142                <category android:name="android.intent.category.DEFAULT" />
+142-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:17-76
+142-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:27-73
+143                <category android:name="android.intent.category.BROWSABLE" />
+143-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:17-78
+143-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
+144
+145                <data
+145-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:41:17-44:51
+146                    android:host="firebase.auth"
+146-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:42:21-49
+147                    android:path="/"
+147-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:43:21-37
+148                    android:scheme="recaptcha" />
+148-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Asus\.gradle\caches\transforms-3\11c5dc684214bc5b2b90df00e86fcd36\transformed\firebase-auth-22.0.0\AndroidManifest.xml:44:21-48
+149            </intent-filter>
+150        </activity>
+151        <activity
+151-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\8086bfb896e46d6c791170a820871cad\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+152            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+152-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\8086bfb896e46d6c791170a820871cad\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+153            android:exported="false"
+153-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\8086bfb896e46d6c791170a820871cad\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+154            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+154-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\8086bfb896e46d6c791170a820871cad\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+155
+156        <provider
+156-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\592c1d0730d2171bae9dd03ef04af6d7\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+157            android:name="com.google.firebase.provider.FirebaseInitProvider"
+157-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\592c1d0730d2171bae9dd03ef04af6d7\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+158            android:authorities="com.example.gitproject.firebaseinitprovider"
+158-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\592c1d0730d2171bae9dd03ef04af6d7\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+159            android:directBootAware="true"
+159-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\592c1d0730d2171bae9dd03ef04af6d7\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+160            android:exported="false"
+160-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\592c1d0730d2171bae9dd03ef04af6d7\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+161            android:initOrder="100" />
+161-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\592c1d0730d2171bae9dd03ef04af6d7\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+162
+163        <meta-data
+163-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\d783b131d093ddc395c9a60a0a8c75e0\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+164            android:name="com.google.android.gms.version"
+164-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\d783b131d093ddc395c9a60a0a8c75e0\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+165            android:value="@integer/google_play_services_version" />
+165-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\d783b131d093ddc395c9a60a0a8c75e0\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+166
+167        <provider
+167-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+168            android:name="androidx.startup.InitializationProvider"
+168-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+169            android:authorities="com.example.gitproject.androidx-startup"
+169-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+170            android:exported="false" >
+170-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+171            <meta-data
+171-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+172                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+172-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+173                android:value="androidx.startup" />
+173-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+174            <meta-data
+174-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Asus\.gradle\caches\transforms-3\c2dfcefb92e37fc96955220fe8b8c302\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+175                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+175-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Asus\.gradle\caches\transforms-3\c2dfcefb92e37fc96955220fe8b8c302\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+176                android:value="androidx.startup" />
+176-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Asus\.gradle\caches\transforms-3\c2dfcefb92e37fc96955220fe8b8c302\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+177        </provider>
+178    </application>
+179
+180</manifest>

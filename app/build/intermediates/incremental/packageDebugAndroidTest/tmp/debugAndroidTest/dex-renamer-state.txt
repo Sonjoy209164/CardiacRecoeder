@@ -1,0 +1,13 @@
+#Fri Jun 30 13:08:55 BDT 2023
+path.3=7/classes.dex
+path.2=13/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=E\:\\practice\\Cardiac-Recorder\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\7\\classes.dex
+base.2=E\:\\practice\\Cardiac-Recorder\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\13\\classes.dex
+base.1=E\:\\practice\\Cardiac-Recorder\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.0=E\:\\practice\\Cardiac-Recorder\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_button3.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\button3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_google_smaller.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\google_smaller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_rectangle_button.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\rectangle_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_fb.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_button_login.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\button_login.xml"
+    },
+    {
+        "merged": "com.example.gitproject.app-merged_res-35:/layout_activity_home.xml.flat",
+        "source": "com.example.gitproject.app-main-37:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_input_bg.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_button2.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_logo11.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\logo11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_sun.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\sun.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_baseline_history_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_security.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\menu_menu_items.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\menu\\menu_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_background3.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\background3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_newlogo.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\newlogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_floating_add.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\floating_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_logohr.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\logohr.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_baseline_smartphone_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_baseline_smartphone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_logo.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_cancel.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_fb_smaller.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\fb_smaller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_background2.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_show_records.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\show_records.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_sys.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\sys.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_dias.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\dias.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_google.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_baseline_camera_alt_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_button4.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\button4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_rate.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\rate.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\drawable_background.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.gitproject.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

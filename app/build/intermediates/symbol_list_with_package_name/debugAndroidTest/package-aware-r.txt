@@ -1,0 +1,3 @@
+com.example.gitproject.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
