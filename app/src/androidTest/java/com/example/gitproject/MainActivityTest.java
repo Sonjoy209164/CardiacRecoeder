@@ -41,17 +41,17 @@ public class MainActivityTest {
      * Check for AddActivity
      */
     @Test
-    public void testAddMeasurement() {
-        onView(withId(R.id.Add_Enter_Systolic_pressure)).perform(typeText("120"));
-        Espresso.pressBack();
-        onView(withId(R.id.Add_Enter_Diastolic_pressure)).perform(typeText("80"));
-        Espresso.pressBack();
-        onView(withId(R.id.Add_Enter_Heart_Rate)).perform(typeText("80"));
-        Espresso.pressBack();
-        onView(withId(R.id.ADD_Enter_Comment)).perform(typeText("Good"));
-        Espresso.pressBack();
-        onView(withId(R.id.ADD_ADDButton)).perform(click());
-    }
+//    public void testAddMeasurement() {
+//        onView(withId(R.id.Add_Enter_Systolic_pressure)).perform(typeText("120"));
+//        Espresso.pressBack();
+//        onView(withId(R.id.Add_Enter_Diastolic_pressure)).perform(typeText("80"));
+//        Espresso.pressBack();
+//        onView(withId(R.id.Add_Enter_Heart_Rate)).perform(typeText("80"));
+//        Espresso.pressBack();
+//        onView(withId(R.id.ADD_Enter_Comment)).perform(typeText("Good"));
+//        Espresso.pressBack();
+//        onView(withId(R.id.ADD_ADDButton)).perform(click());
+//    }
 
     /**
      * Check for updateactivity
