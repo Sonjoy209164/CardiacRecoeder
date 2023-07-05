@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529829283689",
+    "project_id": "safwan-4be7a",
+    "storage_bucket": "safwan-4be7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529829283689:android:ddac9cf552843f57af5ff8",
+        "android_client_info": {
+          "package_name": "com.example.gitproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529829283689-hd0gqv0an4pv5o0i31f9u8nb51ancs41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUSiS1AuV-GsedCDhS3aINKrUqHem2Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529829283689-hd0gqv0an4pv5o0i31f9u8nb51ancs41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
