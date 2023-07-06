@@ -6,6 +6,8 @@ Welcome to the HeartRate app, an Android application designed to monitor blood p
 ## Design overview
 ![main](https://github.com/Sonjoy209164/CardiacRecoeder/assets/66799652/98f72a0e-90ed-4bae-8135-bd5732a6702b)
 
+## How it works
+https://github.com/Sonjoy209164/CardiacRecoeder/assets/66799652/6d76992d-eaa7-49b4-971e-43436c744320
 
 ## Features
 The HeartRate app offers the following features:
