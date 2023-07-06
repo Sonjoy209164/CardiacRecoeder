@@ -32,13 +32,13 @@ Installation and Usage
 
 7.Follow the intuitive interface to record and monitor your blood pressure and heart rate readings.
 
-##Contribution
+## Contribution
 We welcome contributions to enhance the functionality and usability of the HeartRate app. If you encounter any issues or have suggestions for improvements, please submit an issue or create a pull request on the GitHub repository.
 
-##License
+## License
 The HeartRate app is released under the MIT License. Please review the license file for more details.
 
-##Contact
+## Contact
 If you have any questions or need further assistance, feel free to contact us:
 
 Sonjoy Roy: sonjoy209164@.com
