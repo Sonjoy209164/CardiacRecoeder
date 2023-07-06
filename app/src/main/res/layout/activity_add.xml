@@ -142,5 +142,20 @@
         android:text="ADD"
         android:textColor="@color/white"
         android:textSize="16sp"></android.widget.Button>
+    <EditText
+        android:layout_below="@+id/add_label_systolic_pressure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Add_Enter_Systolic_pressure"
+        android:hint="Enter Systolic pressure"
+        android:textColor="#000000"
+        android:textColorHint="#000000"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/input_bg"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp">
 
 </RelativeLayout>
