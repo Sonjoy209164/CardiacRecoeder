@@ -3,6 +3,10 @@
 ## Introduction
 Welcome to the HeartRate app, an Android application designed to monitor blood pressure and heart rate data conveniently. This app provides a straightforward, attractive, and user-friendly interface to help you keep track of your vital health information.
 
+## Design overview
+![main](https://github.com/Sonjoy209164/CardiacRecoeder/assets/66799652/98f72a0e-90ed-4bae-8135-bd5732a6702b)
+
+
 ## Features
 The HeartRate app offers the following features:
 
@@ -16,10 +20,11 @@ The HeartRate app offers the following features:
 
 5.Timestamps: Each entry added to the app includes a timestamp capturing the time and date of the corresponding reading. This information is automatically recorded from your device's system clock.
 
-Installation and Usage
+## Installation and Usage
 1.To use the HeartRate app, follow these steps:
 
 2.Clone or download the app repository from GitHub.
+
 ### git clone https://github.com/Sonjoy209164/CardiacRecoeder.git
 
 3.Open the project in Android Studio or your preferred IDE.
