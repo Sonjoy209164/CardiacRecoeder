@@ -41,6 +41,6 @@ The HeartRate app is released under the MIT License. Please review the license f
 ## Contact
 If you have any questions or need further assistance, feel free to contact us:
 
-Sonjoy Roy: sonjoy209164@.com
-Safwan Zaher Asif: asif1907066@stud.kuet.ac.bd
+### Sonjoy Roy: sonjoy209164@.com <br>
+### Safwan Zaher Asif: asif1907066@stud.kuet.ac.bd <br>
 We appreciate your interest in the HeartRate app and hope it helps you maintain better heart health. Stay vigilant and take care of yourself!
